@@ -8,7 +8,6 @@ checkLogged();  // Checa se tem usuario logado e manda para home.html
 // Quando o usuario clicar em ("link-conta") de index.html executa a função
 document.getElementById("link-conta").addEventListener("click", function(){
    alert("O usuario clicou em criar conta");
-   console.log("O usuario clicou em criar conta");
 })
 */
 // LOGAR NO SISTEMA
